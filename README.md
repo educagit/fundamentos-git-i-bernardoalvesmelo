@@ -23,5 +23,5 @@ Para cada comando utilizado, procure anotar separadamente, para depois poder com
 - [Vídeo sobre os fundamentos de branches](https://www.youtube.com/watch?v=H5GJfcp3p4Q)
 
 
-substitua essa frase pela imagem do octocat
+![](https://octodex.github.com/images/catstello.png)
 
